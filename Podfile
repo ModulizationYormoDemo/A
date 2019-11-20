@@ -7,5 +7,6 @@ source 'https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git'
 use_frameworks!
 
 target 'A' do
- 
+    pod "HandyFrame"
+    pod "B_Category"
 end
